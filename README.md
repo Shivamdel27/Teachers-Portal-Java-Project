@@ -1,7 +1,5 @@
 # Teachers-Portal-Java-Project
-<sub> 2nd Semester Project - Course: PF (Java lang)</sub>
-
-2nd Semester Project for Programming Fundamentals Course in Java programming language.
+Fundamentals Course in Java programming language.
 
 ### Prerequisites
 
@@ -88,13 +86,6 @@ The system will provide a comprehensive combination of the following:
 ## Built with
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-## Acknowledgements
--  [Abdul Waheed](https://github.com/captainWaheed) `me`
-- [Bilal Khan]() 
-
-## Feedback
-If you have any query, please reach me at : theabdulwaheed38@gmail.com
 
 ## LICENSE
 This project is under GNU LICENSE you can learn more about it here: [GNU LICENSE](LICENSE)
